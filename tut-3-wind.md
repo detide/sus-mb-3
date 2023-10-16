@@ -49,3 +49,4 @@ You can check your code using the simulator on the left.
 Once done, ``|Download|`` the program to your @boardname@ and test it!
 ```template
 basic.forever(function() {})
+```
